@@ -7,7 +7,8 @@ fun main() {
 
 
     while (true){
-        var entryNumeros = 
+        print("Digite os numeros aqui: ")
+        var entryNumeros = readln()
 
 
 
